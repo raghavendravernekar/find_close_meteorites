@@ -7,5 +7,5 @@ Required Python3 to execute the package
 First install pipenv, then:
 
 ```pipenv install
-   pipenv run "ipython find_meteors.py"
+   pipenv run "ipython meteors/find_meteors.py"
 ```
